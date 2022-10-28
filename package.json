@@ -1,0 +1,18 @@
+{
+  "name": "cwt01",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "plinko พลิงโกะ ค่ายไหน ทดลองเล่น ฝาก10รับ100 เครดิตฟรีที่ batslot369",
+  "keywords": [
+    "plinko",
+    "พลิงโกะ",
+    "plinko ค่ายไหน",
+    "plinko ทดลองเล่น",
+    "ฝาก10รับ100"
+  ],
+  "repository": "https://github.com/callwolf369/cwt01",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
